@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/christiancordeiro/christiancordeiro/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/christiancordeiro/christiancordeiro/assets/116993834/20e22651-f2f0-4d4f-9b8d-8c591e8fb4b3" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a tech enthusiast with a love for tackling exciting challenges. My skillset includes JavaScript, HTML, CSS, Git, and I'm currently diving into the world of React.</p>&nbsp;
