@@ -1,18 +1,11 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/christiancordeiro/christiancordeiro/assets/116993834/20e22651-f2f0-4d4f-9b8d-8c591e8fb4b3" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a tech enthusiast with a love for tackling exciting challenges. My skillset includes JavaScript, HTML, CSS, Git, and I'm currently diving into the world of React.</p>&nbsp;
+<p>Sou um desenvolvedor front-end apaixonado por tecnologia e constantemente em busca de novos desafios e conhecimentos. Tenho um conhecimento sólido em HTML, CSS, React.js, e experiência em UI Design. Atualmente, estou me aprofundando em TypeScript para expandir ainda mais minhas habilidades. Minha motivação é aprender continuamente e evoluir como profissional, buscando sempre aprimorar meu trabalho e acompanhar as últimas tendências e tecnologias no campo do desenvolvimento.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=christiancordeiro&theme=radical&mode=weekly" />
- </div>
- 
  &nbsp;
  &nbsp;
 
-
-
-## My Skills
+## Habilidades
 
 #### Main Stack:
 
@@ -21,15 +14,15 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
-
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
