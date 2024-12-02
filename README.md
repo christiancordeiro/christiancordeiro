@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p>Sou um desenvolvedor front-end apaixonado por tecnologia e constantemente em busca de novos desafios e conhecimentos. Tenho um conhecimento sólido em HTML, CSS, React.js, e experiência em UI Design. Atualmente, estou me aprofundando em TypeScript para expandir ainda mais minhas habilidades. Minha motivação é aprender continuamente e evoluir como profissional, buscando sempre aprimorar meu trabalho e acompanhar as últimas tendências e tecnologias no campo do desenvolvimento.</p>&nbsp;
+<p>Sou um desenvolvedor front-end apaixonado por tecnologia e constantemente em busca de novos desafios e conhecimentos. Tenho um conhecimento sólido em HTML, CSS, React.js, TypeScript e experiência em UI Design. Minha motivação é aprender continuamente e evoluir como profissional, buscando sempre aprimorar meu trabalho e acompanhar as últimas tendências e tecnologias no campo do desenvolvimento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no 2º período e estou explorando o back-end, estudando Java.</p>&nbsp;
 
  &nbsp;
  &nbsp;
